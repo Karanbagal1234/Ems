@@ -73,12 +73,6 @@ This Voting System web application built using Django can serve as the automated
 
 
 
-
-## Support Developer
-1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
-
-
 ## Passport/Images
 Images are from [Unsplash](https://unsplash.com) 
 
@@ -141,12 +135,12 @@ $  source bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/jobic10/e-voting-with-django.git
+$  git clone https:https://github.com/Karanbagal1234/Ems
 ```
 
 Then, Enter the project
 ```
-$  cd e-voting-with-django
+$  cd ems
 ```
 
 **4. Install Requirements from 'requirements.txt'**
@@ -214,10 +208,8 @@ Password: student
 
 
 ## For Sponsor or Projects Enquiry
-1. Email - jobowonubi@gmail.com
-2. LinkedIn - [jobic10](https://www.linkedin.com/in/jobic10 "Owonubi Job Sunday on LinkedIn")
-2. Twitter - [jobic10](https://www.twitter.com/jobic10 "Owonubi Job Sunday on Twitter")
-
+1. Email - karanbagal021@gmail.com
+2. Instagram - @karanbagal01234
 
 
 ## How the system works
